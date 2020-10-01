@@ -1,5 +1,10 @@
 ![react-dropzone logo](https://raw.githubusercontent.com/react-dropzone/react-dropzone/master/logo/logo.png)
 
+#install-react
+npx create-react-app my-app
+cd my-app
+npm start
+
 # react-dropzone
 
 [![npm](https://img.shields.io/npm/v/react-dropzone.svg?style=flat-square)](https://www.npmjs.com/package/react-dropzone)
